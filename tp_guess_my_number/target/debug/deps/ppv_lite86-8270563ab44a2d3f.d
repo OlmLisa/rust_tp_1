@@ -1,0 +1,11 @@
+C:\Users\coulm\Documents\ESGI\5A 2021-2022\Rust\tp_guess_my_number\target\debug\deps\ppv_lite86-8270563ab44a2d3f.rmeta: C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\lib.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\soft.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\types.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\x86_64\mod.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\x86_64\sse2.rs
+
+C:\Users\coulm\Documents\ESGI\5A 2021-2022\Rust\tp_guess_my_number\target\debug\deps\libppv_lite86-8270563ab44a2d3f.rlib: C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\lib.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\soft.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\types.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\x86_64\mod.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\x86_64\sse2.rs
+
+C:\Users\coulm\Documents\ESGI\5A 2021-2022\Rust\tp_guess_my_number\target\debug\deps\ppv_lite86-8270563ab44a2d3f.d: C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\lib.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\soft.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\types.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\x86_64\mod.rs C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\x86_64\sse2.rs
+
+C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\lib.rs:
+C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\soft.rs:
+C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\types.rs:
+C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\x86_64\mod.rs:
+C:\Users\coulm\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.10\src\x86_64\sse2.rs:
